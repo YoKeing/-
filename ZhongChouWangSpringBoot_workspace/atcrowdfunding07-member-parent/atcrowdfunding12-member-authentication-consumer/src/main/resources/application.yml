@@ -1,0 +1,32 @@
+server:
+  port: 4001
+Spring:
+  application:
+    name: crowd-auth
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: LEGACYHTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: false
+  redis:
+    host: 192.168.181.128
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+short:
+  message:
+    app-code: 1ec2091806c644168a27c0ab0f7f9be9
+    host: https://gyytz.market.alicloudapi.com
+    method: POST
+    path: /sms/smsSend
+    sign: 2e65b1bb3d054466b82f0c9d125465e2
+    skin: 908e94ccf08b4476ba6c876d13f084ad
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000

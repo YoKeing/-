@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5012e7e4-0fda-4efc-912f-7a1f07ffc293" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\LocalRepository" />
+        <option name="mavenHome" value="F:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pT14MzKsX9n8Sx7qlajEhHgJGU" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/atcrowdfunding15-member-pay-consumer/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\deaProjects\ShangChouWangSpringBoot_workspace\atcrowdfunding07-member-parent\atcrowdfunding15-member-pay-consumer\src\main\resources" />
+      <recent name="F:\deaProjects\ShangChouWangSpringBoot_workspace\atcrowdfunding07-member-parent\atcrowdfunding14-member-order-consumer\src\main\resources\templates" />
+      <recent name="F:\deaProjects\ShangChouWangSpringBoot_workspace\atcrowdfunding07-member-parent\atcrowdfunding10-member-mysql-provider\src\main\resources\mybatis\mapper" />
+      <recent name="F:\deaProjects\ShangChouWangSpringBoot_workspace\atcrowdfunding07-member-parent\atcrowdfunding10-member-mysql-provider\src\main\java\com\crowd\mapper" />
+      <recent name="F:\deaProjects\ShangChouWangSpringBoot_workspace\atcrowdfunding07-member-parent\atcrowdfunding09-member-entity\src\main\java\com\crowd\entity\po" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crowd.aliyun.api.gateway.demo.util" />
+      <recent name="com.aliyun.api.gateway.demo.util" />
+      <recent name="com.crowd.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RedisTest.test">
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding11-member-redis-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.crowd.test.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMainClass (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding12-member-authentication-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crowd.CrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMainClass (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crowd.CrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMainClass (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding16-member-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crowd.CrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding11-member-redis-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crowd.CrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="Spring Boot.CrowdMainClass (4)" />
+        <item itemvalue="Spring Boot.CrowdMainClass (2)" />
+        <item itemvalue="Spring Boot.CrowdMainClass" />
+        <item itemvalue="Spring Boot.CrowdMainClass (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5012e7e4-0fda-4efc-912f-7a1f07ffc293" name="Default Changelist" comment="" />
+      <created>1615192075187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615192075187</updated>
+      <workItem from="1615192076614" duration="4973000" />
+      <workItem from="1615205234917" duration="230000" />
+      <workItem from="1615205486474" duration="1768000" />
+      <workItem from="1615207947166" duration="7853000" />
+      <workItem from="1615362986440" duration="628000" />
+      <workItem from="1615374073845" duration="9056000" />
+      <workItem from="1615436167301" duration="14704000" />
+      <workItem from="1615515853427" duration="19951000" />
+      <workItem from="1615611134204" duration="6458000" />
+      <workItem from="1615817179494" duration="6729000" />
+      <workItem from="1615907027148" duration="1158000" />
+      <workItem from="1615946469123" duration="8321000" />
+      <workItem from="1615967709847" duration="16909000" />
+      <workItem from="1616002091575" duration="8057000" />
+      <workItem from="1616065169940" duration="4909000" />
+      <workItem from="1616075793958" duration="2130000" />
+      <workItem from="1616127406780" duration="7624000" />
+      <workItem from="1616142690933" duration="11471000" />
+      <workItem from="1616587318741" duration="145000" />
+      <workItem from="1616683944119" duration="276000" />
+      <workItem from="1617800348171" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.netflix.client.ClientException" package="com.netflix.client" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
